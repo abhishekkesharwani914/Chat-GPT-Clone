@@ -1,4 +1,4 @@
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+**This project was developed for enhancing ChatGPT and Gemini for learning new skills.**
 
 ## Getting Started
 
