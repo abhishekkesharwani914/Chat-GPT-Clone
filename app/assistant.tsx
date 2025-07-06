@@ -25,7 +25,7 @@ export const Assistant = () => {
               <BreadcrumbList>
                 <BreadcrumbItem className="hidden md:block">
                   <BreadcrumbLink href="#">
-                    Chat GPT Clone
+                    <a href="https://chat-gpt-clone-abhishekkesharwani914s-projects.vercel.app/">Chat GPT Clone</a>
                   </BreadcrumbLink>
                 </BreadcrumbItem>
                 <BreadcrumbSeparator className="hidden md:block" />
